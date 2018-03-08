@@ -20,6 +20,11 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 | --- | --- | --- | --- | --- |
 [Kaniela Ing](http://www.kanielaing.com/bold-vision) | Hawaii | HI-01 (Hawaii's 1st congressional district) | 2018 | |
 
+## State Legislature
+| Campaign | Location | Office | Year | Notes
+| --- | --- | --- | --- | --- |
+[Owen Poindexter](https://www.owenpoindexter.com) | California | CA-15 (California Assembly, District 15) | 2018 | [Concrete proposal](https://www.owenpoindexter.com/basic-income-deep-dive/) for $100/month (rising to $400/month) funded by additional 2-3% progessive state income tax |
+
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
