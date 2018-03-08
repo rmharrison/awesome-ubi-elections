@@ -25,6 +25,11 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 | --- | --- | --- | --- | --- |
 [Owen Poindexter](https://www.owenpoindexter.com) | California | CA-15 (California Assembly, District 15) | 2018 | [Concrete proposal](https://www.owenpoindexter.com/basic-income-deep-dive/) for $100/month (rising to $400/month) funded by additional 2-3% progessive state income tax |
 
+## Mayor
+| Campaign | Location | Office | Year | Result | Notes |
+| --- | --- | --- | --- | --- | --- |
+[Ingrid LaFleur](http://ingridlafleur.com/new-page-1/) | Detroit, MI | Mayor (write-in) | 2017 | General election: <532/101,120. Write-in candidates not disaggregated. [Source: Wayne County Clerk](https://www.waynecounty.com/documents/clerk/dmy_1117.pdf) | [Write-in candidate](https://www.metrotimes.com/news-hits/archives/2017/05/03/ingrid-lafleur-will-not-appear-on-detroit-mayoral-primary-ballot-is-running-as-write-in) |
+
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
