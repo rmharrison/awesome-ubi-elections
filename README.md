@@ -14,3 +14,8 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 | Campaign | Location | Office | Year | Notes
 | --- | --- | --- | --- | --- |
 [Andrew Yang](https://www.yang2020.com/what-is-ubi/) | USA | President | 2020 | Announced Feb 2018. Automation argument. NY Times, ["The Robots Are Coming"](https://www.nytimes.com/2018/02/10/technology/his-2020-campaign-message-the-robots-are-coming.html)
+
+## Congress
+| Campaign | Location | Office | Year | Notes
+| --- | --- | --- | --- | --- |
+[Kaniela Ing](http://www.kanielaing.com/bold-vision) | Hawaii | HI-01 (Hawaii's 1st congressional district) | 2018 | |
