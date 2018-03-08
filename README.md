@@ -7,3 +7,10 @@ This list contains a variety of resources on candidates for political office who
 PRs welcome! To ease with verification, please include only one candidate per PR. The endorsement of UBI must be *public*, on the candidates website.
 
 **Always work in progress.**
+
+# United States of America (USA)
+## Presidential
+
+| Campaign | Location | Office | Year | Notes
+| --- | --- | --- | --- | --- |
+[Andrew Yang](https://www.yang2020.com/what-is-ubi/) | USA | President | 2020 | Announced Feb 2018. Automation argument. NY Times, ["The Robots Are Coming"](https://www.nytimes.com/2018/02/10/technology/his-2020-campaign-message-the-robots-are-coming.html)
