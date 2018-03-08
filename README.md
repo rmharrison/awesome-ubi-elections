@@ -19,3 +19,9 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 | Campaign | Location | Office | Year | Notes
 | --- | --- | --- | --- | --- |
 [Kaniela Ing](http://www.kanielaing.com/bold-vision) | Hawaii | HI-01 (Hawaii's 1st congressional district) | 2018 | |
+
+# License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Ryan Harrison and contributors waive all copyright and related or neighboring rights to this work.
