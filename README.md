@@ -21,6 +21,11 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 [Brianna Wu](https://www.briannawu2018.com/universal_basic_income) | Massachusetts | MA_08 (Massachusetts's 8th Congressional District) | 2018 | |
 [Kaniela Ing](http://www.kanielaing.com/bold-vision) | Hawaii | HI-01 (Hawaii's 1st congressional district) | 2018 | |
 
+## Governor
+| Campaign | Location | Office | Year | Notes
+| --- | --- | --- | --- | --- |
+[Zoltan Istvan](http://www.zoltanistvan.com/Platform.html) | California | Governor | 2018 | Libertarian. [Financing state-wide UBI by leasing federal and state land](https://techcrunch.com/2017/04/10/is-monetizing-federal-land-the-way-to-pay-for-basic-income/)
+
 ## State Legislature
 | Campaign | Location | Office | Year | Notes
 | --- | --- | --- | --- | --- |
