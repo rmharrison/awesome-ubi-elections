@@ -18,6 +18,7 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 ## Congress
 | Campaign | Location | Office | Year | Notes
 | --- | --- | --- | --- | --- |
+[Brianna Wu](https://www.briannawu2018.com/universal_basic_income) | Massachusetts | MA_08 (Massachusetts's 8th Congressional District) | 2018 | |
 [Kaniela Ing](http://www.kanielaing.com/bold-vision) | Hawaii | HI-01 (Hawaii's 1st congressional district) | 2018 | |
 
 ## State Legislature
