@@ -15,6 +15,13 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 | --- | --- | --- | --- | --- |
 [Council of Europe, Parliamentary Assembly](assembly.coe.int/) | | 2018 | [The case for a basic citizenship income (Doc. 14462)](http://assembly.coe.int/nw/xml/Votes/DB-VotesResults-EN.asp?VoteID=36977&DocID=16468&MemberID=), a non-binding resolution in favour of UBI passed 48/33/12 (in favour/against/abstention) | [Basic Income News coverage](http://basicincome.org/news/2018/02/europe-council-europe-adopts-resolution-basic-income/) |
 
+# Oceania
+## Party platform
+
+| Party | Location | Year | Source |
+| --- | --- | --- | --- |
+[The Opportunities Party (TOP)](http://www.top.org.nz) | New Zealand (NZ) | 2017 | [3-stage BI, including 18-23 program](http://www.top.org.nz/top11). Covered on [Basic Income New](http://basicincome.org/news/2017/08/new-zealand-opportunities-party-proposes-ubi-policy-youth/) |
+
 # United States of America (USA)
 ## Presidential
 
