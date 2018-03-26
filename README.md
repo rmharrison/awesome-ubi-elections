@@ -37,6 +37,15 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 | --- | --- | --- | --- | --- | --- |
 [Ingrid LaFleur](http://ingridlafleur.com/new-page-1/) | Detroit, MI | Mayor (write-in) | 2017 | General election: <532/101,120. Write-in candidates not disaggregated. [Source: Wayne County Clerk](https://www.waynecounty.com/documents/clerk/dmy_1117.pdf) | [Write-in candidate](https://www.metrotimes.com/news-hits/archives/2017/05/03/ingrid-lafleur-will-not-appear-on-detroit-mayoral-primary-ballot-is-running-as-write-in) |
 
+## Party platform
+Template Resolution in support of a Universal Basic Income: https://goo.gl/Fk3Qyw
+
+| Party | Location | Year | Source |
+| --- | --- | --- | --- |
+[California Democratic Party](https://www.cadem.org) | California, USA | 2018 | [2018 Platform: Labor, Economic Justice and Poverty Elimination](https://www.cadem.org/our-california/platform/2018-platform-labor-economic-justice-and-poverty-elimination)
+[Green Party US](http://www.gp.org/) | USA | 2016 | [IV. Economic Justice & Sustainability](http://www.gp.org/economic_justice_and_sustainability_2016) |
+[Vermont Progressive Party](www.progressiveparty.org) | Vermont, USA | 2016 | [Resolution in Support of Universal Basic Income](www.progressiveparty.org/2016/02/draft-universal-basic-income-renewable-energy-31316/)
+
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
