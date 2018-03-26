@@ -11,20 +11,20 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 # United States of America (USA)
 ## Presidential
 
-| Campaign | Location | Office | Year | Notes
-| --- | --- | --- | --- | --- |
-[Andrew Yang](https://www.yang2020.com/what-is-ubi/) | USA | President | 2020 | Announced Feb 2018. Automation argument. NY Times, ["The Robots Are Coming"](https://www.nytimes.com/2018/02/10/technology/his-2020-campaign-message-the-robots-are-coming.html)
+| Campaign | Location | Office | Year | Party | Notes
+| --- | --- | --- | --- | --- | --- |
+[Andrew Yang](https://www.yang2020.com/what-is-ubi/) | USA | President | 2020 | Democrat | Announced Feb 2018. Automation argument. NY Times, ["The Robots Are Coming"](https://www.nytimes.com/2018/02/10/technology/his-2020-campaign-message-the-robots-are-coming.html)
 
 ## Congress
-| Campaign | Location | Office | Year | Notes
-| --- | --- | --- | --- | --- |
-[Brianna Wu](https://www.briannawu2018.com/universal_basic_income) | Massachusetts | MA-08 (Massachusetts's 8th Congressional District) | 2018 | |
-[Kaniela Ing](http://www.kanielaing.com/bold-vision) | Hawaii | HI-01 (Hawaii's 1st congressional district) | 2018 | |
+| Campaign | Location | Office | Year | Party | Notes
+| --- | --- | --- | --- | --- | --- |
+[Brianna Wu](https://www.briannawu2018.com/universal_basic_income) | Massachusetts | MA-08 (Massachusetts's 8th Congressional District) | 2018 | Democrat |
+[Kaniela Ing](http://www.kanielaing.com/bold-vision) | Hawaii | HI-01 (Hawaii's 1st congressional district) | 2018 | Democrat |
 
 ## Governor
-| Campaign | Location | Office | Year | Notes
-| --- | --- | --- | --- | --- |
-[Zoltan Istvan](http://www.zoltanistvan.com/Platform.html) | California | Governor | 2018 | Libertarian. [Financing state-wide UBI by leasing federal and state land](https://techcrunch.com/2017/04/10/is-monetizing-federal-land-the-way-to-pay-for-basic-income/)
+| Campaign | Location | Office | Year | Party | Notes
+| --- | --- | --- | --- | --- | --- |
+[Zoltan Istvan](http://www.zoltanistvan.com/Platform.html) | California | Governor | 2018 | Libertarian| [Financing state-wide UBI by leasing federal and state land](https://techcrunch.com/2017/04/10/is-monetizing-federal-land-the-way-to-pay-for-basic-income/)
 
 ## State Legislature
 | Campaign | Location | Office | Year | Notes
