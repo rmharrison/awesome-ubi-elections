@@ -18,7 +18,7 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 ## Congress
 | Campaign | Location | Office | Year | Notes
 | --- | --- | --- | --- | --- |
-[Brianna Wu](https://www.briannawu2018.com/universal_basic_income) | Massachusetts | MA_08 (Massachusetts's 8th Congressional District) | 2018 | |
+[Brianna Wu](https://www.briannawu2018.com/universal_basic_income) | Massachusetts | MA-08 (Massachusetts's 8th Congressional District) | 2018 | |
 [Kaniela Ing](http://www.kanielaing.com/bold-vision) | Hawaii | HI-01 (Hawaii's 1st congressional district) | 2018 | |
 
 ## Governor
@@ -29,8 +29,8 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 ## State Legislature
 | Campaign | Location | Office | Year | Notes
 | --- | --- | --- | --- | --- |
-[Owen Poindexter](https://www.owenpoindexter.com) | California | CA-15 (California Assembly, District 15) | 2018 | [Concrete proposal](https://www.owenpoindexter.com/basic-income-deep-dive/) for $100/month (rising to $400/month) funded by additional 2-3% progessive state income tax |
-[Raquella Thaman](https://www.raquellathaman.com) | California | CA-15 (California Assembly, District 15) | 2018 | Guaranteed minimum income. [Local news](http://www.dailycal.org/2018/03/01/three-more-candidates-enter-race-for-ca-state-assembly-district-15-seat/)
+[Owen Poindexter](https://www.owenpoindexter.com) | California | CA-AD-15 (California Assembly, District 15) | 2018 | [Concrete proposal](https://www.owenpoindexter.com/basic-income-deep-dive/) for $100/month (rising to $400/month) funded by additional 2-3% progessive state income tax |
+[Raquella Thaman](https://www.raquellathaman.com) | California | CA-AD-15 (California Assembly, District 15) | 2018 | Guaranteed minimum income. [Local news](http://www.dailycal.org/2018/03/01/three-more-candidates-enter-race-for-ca-state-assembly-district-15-seat/)
 
 ## Mayor
 | Campaign | Location | Office | Year | Result | Notes |
