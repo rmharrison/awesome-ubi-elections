@@ -12,6 +12,7 @@ PRs welcome! To ease with verification, please include only one candidate per PR
 
 | Party | Type | Location | Year | Source | Notes 
 | --- | --- | --- | --- | --- | --- |
+[Basinkomstpartiet](http://www.basinkomstpartiet.org/) | National political party, single-issue | Sweden | 2017 | Covered in [Basic Income News](http://basicincome.org/news/2017/06/sweden-ubie-vice-chair-launches-basic-income-political-party/) |
 [Buendnis Grundeinkommen (Basic Income Alliance)](http://www.buendnis-grundeinkommen.de/) | National political party, single-issue | Germany (DE) | 2016 | Covered in [Basic Income News](http://basicincome.org/news/2017/07/germany-basic-income-party-set-participate-national-elections/)
 [Council of Europe, Parliamentary Assembly](assembly.coe.int/) | Intergovernmental organization | Europe | 2018 | [The case for a basic citizenship income (Doc. 14462)](http://assembly.coe.int/nw/xml/Votes/DB-VotesResults-EN.asp?VoteID=36977&DocID=16468&MemberID=), a non-binding resolution in favour of UBI passed 48/33/12 (in favour/against/abstention) | [Basic Income News coverage](http://basicincome.org/news/2018/02/europe-council-europe-adopts-resolution-basic-income/) |
 [Green Party of England and Wales](https://greenparty.org.uk) | National political party | England and Wales, United Kingdom (UK) | 2017 | [Citizens' Income included in Economy playform](https://policy.greenparty.org.uk/ec.html) | Covered on [Basic Income News](http://basicincome.org/news/2017/06/uk-green-parties-call-ubi-election-manifestos/)
